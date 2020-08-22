@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-NAME = "DETECTING-SCIENTIFIC-CLAIM"
+NAME = "detectclaim"
 VERSION = "1.0.0"
 DESCRIPTION = "Detecting Scientific Claims in Scientific literature."
 URL = "https://github.com/titipata/detecting-scientific-claim"
